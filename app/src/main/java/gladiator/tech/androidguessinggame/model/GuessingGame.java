@@ -3,7 +3,7 @@ package gladiator.tech.androidguessinggame.model;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class GuessingGame {
 
     public static void main(String[] args) {
         Random random = new Random();
