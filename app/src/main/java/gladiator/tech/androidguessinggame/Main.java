@@ -1,4 +1,4 @@
-package tech.gladiator;
+package gladiator.tech.androidguessinggame;
 
 import java.util.Random;
 import java.util.Scanner;
